@@ -6,7 +6,7 @@ Hostika.LT offers affordable and powerful VPS hosting solutions located in Europ
 ![image](https://github.com/youngbloodgenaro96/Hostika/assets/167661706/691f6abf-ada2-43dd-85a3-bc4be30dd90a)
 
 ## Hostika Official Website Address
-[https://www.hostika.lt/](https://panel.hostika.lt/aff.php?aff=228
+[https://www.hostika.lt/](https://panel.hostika.lt/aff.php?aff=228)
 
 ## Hostika Coupon Code
 - **Promotion Code for Linux KVM VPS Servers:** `promo50`
